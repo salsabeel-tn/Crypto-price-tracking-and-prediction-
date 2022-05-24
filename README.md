@@ -18,3 +18,10 @@ https://user-images.githubusercontent.com/60573989/170108345-74523458-8807-4c04-
 ## Backend:
 1)Flask<br>
 2)SQLite<br>
+  
+## dependancies:
+Point your cmd to the project's directory and execute the following command:<br>
+```
+pip install -r requirements.txt
+```
+
