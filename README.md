@@ -16,5 +16,5 @@ https://user-images.githubusercontent.com/60573989/170108345-74523458-8807-4c04-
 3) Bootstrap + JS <br>
   
 ## Backend:
-1)Flask<br.
+1)Flask<br>
 2)SQLite<br>
